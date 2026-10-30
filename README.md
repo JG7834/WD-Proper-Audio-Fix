@@ -1,6 +1,6 @@
 WDAudioFix - Watch Dogs sound effects fix for S/PDIF / digital audio outputs
 
-Fixes missing audio in Watch Dogs where users utilize Realtek Digital Output or similar. The previous mod (WD-ForceStereo) that is on Nexus does not fix the audio per se, it only forces channels into 2 in where their volume is too low. This new plugin kind of does the same but also tricks the game into outputting audio by spoofing the hardware name to output to.  Fixes audio in special cases, where a user may have a soundbar connected through SPDIF and using a Windows hack to get Dolby Digital (I would know.)
+Fixes missing audio in Watch Dogs where users utilize Realtek Digital Output or similar. The previous mod (WD-ForceStereo) that is on Nexus only forces or fixes channels into 2 in where their volume is too low. This new plugin fixes previous issues while also tricking the game into outputting audio by spoofing the hardware name to output to.  Fixes audio in special cases, where a user may have a soundbar connected through SPDIF and using a Windows hack to get Dolby Digital Live (I would know.)
 
 =========================================================================
 

@@ -1,5 +1,6 @@
 # WD-Proper-Audio-Fix
-Fixes missing audio in Watch Dogs where users utilize Realtek Digital Output or similar.
+Fixes missing audio in Watch Dogs where users utilize Realtek Digital Output or similar. The previous mod that is on Nexus does not fix the audio perse, it only fixes channels in where their volume is too low. This new
+plugin re-routes the audio in a way that the game wants, thereby outputting it. Eliminates the need for VB Cable or any equalizer program.
 
 WDAudioFix - Watch Dogs sound effects fix for S/PDIF / digital audio outputs
 =========================================================================
